@@ -1,0 +1,12 @@
+{
+    "tools": {
+        "index": {
+            "label": "OpenSCAP",
+            "keywords": [
+                {
+                    "matches": ["openscap", "security", "compliance", "scan", "scap", "stig", "cis"]
+                }
+            ]
+        }
+    }
+}

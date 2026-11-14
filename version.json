@@ -1,0 +1,1 @@
+{"notes":"Fixes dead 'Show Details' buttons on the Build Remediation page (Cockpit CSP blocked inline onclick handlers).","release_url":"https://github.com/RobGenins/cockpit-openscap/releases/tag/v5.0.1","version":"5.0.1"}
